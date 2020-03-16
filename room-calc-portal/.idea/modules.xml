@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/room-calc-fronted/room-calc (1).iml" filepath="$PROJECT_DIR$/room-calc-fronted/room-calc (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/room-calc/room-calc (2).iml" filepath="$PROJECT_DIR$/room-calc/room-calc (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/room-calc-fronted/room-calc-fronted.iml" filepath="$PROJECT_DIR$/room-calc-fronted/room-calc-fronted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/room-calc-portal.iml" filepath="$PROJECT_DIR$/room-calc-portal.iml" />
+    </modules>
+  </component>
+</project>
